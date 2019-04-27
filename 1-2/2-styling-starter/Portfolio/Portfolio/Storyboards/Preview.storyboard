@@ -146,6 +146,11 @@
                                     <constraint firstAttribute="height" constant="184" id="QXT-8A-gwm"/>
                                     <constraint firstAttribute="width" constant="67" id="s4c-7P-dgc"/>
                                 </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="level">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                             </view>
                         </subviews>
                         <color key="backgroundColor" name="RWBackground"/>
